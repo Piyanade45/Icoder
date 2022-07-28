@@ -1,0 +1,10 @@
+.breadcrumb{
+    background-color: rgb(194, 188, 188);
+    height: 50px;
+    display: flex;
+    align-items: center;
+   
+}
+.breadcrumb .a1{
+    margin-left: 20px;
+}
